@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    text-decoration: none;
+ } 
+ .about-us{
+    background-color: #4b4d4b;
+     height: 50px;
+
+ }
+ .soul-music{
+    font-size: 30px;
+ }
+ a{
+    margin: 10px;
+ }
+.div{
+    display: inline;
+    float: right;
+    margin: 30px;
+    border-style: none;
+    margin-top: 17px; 
+
+}
+
+
+
+    .section-1{ 
+        color: white;
+      }
+     .dv{
+         background-color: #0a183d;
+         padding-left: 40px;
+         padding-top: 50px;
+         height: 400px;
+     }
+     .music{
+        font-size: 50px;
+     }
+     p{
+         line-height: 30px;
+     }
+     a{
+        color: white;
+        text-transform: capitalize;
+        text-decoration-style: none;
+
+     }
+     .btn-1{
+        border-style: none;
+        padding: 10px 25px;
+        border-radius: 20px;
+        background-color: #fd0257;
+        color: white;
+        margin-top: 25PX;
+     }
+     .btn-2{
+        border-style: none;
+         padding: 10px 17px;
+         border-radius: 20px;
+         background-color: #393a70;
+         color: white;  
+     }
+
+
+.section-2{
+    background-size: cover;
+    height: 300px;
+}
+.unlimited{
+    font-size: 35px;
+    padding-left: 30px; 
+    display: inline-block;
+    padding-top: 70px;
+   
+}
+.salman{
+    padding-left: 100px;  
+    float: right;
+}
+ .paragraph{
+  width: 420px;  
+  height: 150px;
+  padding-top: 70px;
+  padding-right: 30px;
+ 
+  
+}
+.buttonn{
+    border-style: none;
+    float: right;
+    margin-right: 270px;
+    margin-top: 55px;
+    padding: 10px 25px; 
+    border-radius: 20px;
+    background-color: #fa0354;     
+
+}
+
+
+
+.section-3{
+    color: white;
+    background-color: #0c1840;
+    height: 500px;
+}
+.works{
+    font-size: 65px;
+    margin-top: 140px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.account{
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 310px;
+    display: inline-block;
+    margin: 5PX;
+    margin-top: 50px;
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.icons{
+  border: 1px solid black;
+  margin-left: 90px;
+  background-color: #f7004e;
+  padding: 10px;
+  border-radius: 25px;
+   
+}
+
+
+.concept{
+font-size: 50px;
+display: inline-block;
+}
+.pp{
+width: 600px;
+height: 150px;
+display: inline-block;
+}
+.pp{
+    margin-top: 80px;
+    margin-left: 55px;
+}
+.div-div{
+    display: inline-block;
+    margin-left: 60px;
+}
+.images{
+    display: inline-block;
+    padding-right: 10px;
+    margin-top: 40px;
+    margin-left: 6px;
+}
+.immg{
+    border-radius: 18px;
+}
+.soul{
+    font-size: large;
+    margin-left: 45px;
+}
+
+
+.section-5{
+    background-color: #0a183d;
+    margin-top: 30px;
+}
+.parentd-1{
+    padding-top: 4px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    display: inline-block;
+}
+.Subscription{
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: white;
+}
+.trial-now{
+    font-size: xx-large;
+    color: crimson;
+}
+.p4{
+    /* border: 1px solid black; */
+    width: 400px;
+    color: white;
+}
+.btn{
+border-radius: 15px;   
+background-color: crimson;
+width: 130px;
+height: 35px;
+color: white;
+
+}
+.box{
+    border: 1px solid black;
+    background-color: #1c294c;
+    display: inline-block;
+    color: white;
+    box-shadow: 10px 20px 20px 10px black;
+    width: 350px;
+    height: 360px;
+    font-size: 23px;
+    margin-left: 80px;
+    margin-bottom: 70px;
+    padding-left: 70px;
+    padding-top: 30px;
+    border-radius: 35px;
+}
+
+
+
+.premium{
+font-size: 50px;
+padding-top: 40PX; 
+padding-left: 18px;
+display: inline-block; 
+
+}
+.lorem{
+width: 520px;
+height: 150px;
+float: right;
+}
+.lorem{
+    margin-left: 10px;
+    padding-top: 40px;
+}
+
+.main-div{
+    display: inline-block;
+    padding: 30px;
+    
+}
+.imagess{
+    display: inline-block;
+    padding-top: 50px;
+    margin-left: 9px;
+}
+.immmg{
+    border-radius: 100px;
+    margin: 15px;
+}
+.h5{
+    font-size: large;
+    margin-left: 40px;
+}
+.last-p{
+    margin-top: 10px;
+    margin-left: 40px;
+}
